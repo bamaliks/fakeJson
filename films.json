@@ -1,0 +1,42 @@
+{
+  "items": "3",
+  "films": [
+    {
+     "title":"Райя и последний дракон",
+     "green1":"9:20 150₽",
+     "green2":"13:15 200₽",
+     "green3":"none",
+     "red1":"11:05 200₽",
+     "red2":"15:05 250₽",
+     "red3":"none",
+     "year":"2021",
+     "country":"США",
+     "genre":"семейны, фэнтези, боевик, приключения, комедия, анимация",
+     "pic":"https://media.kg-portal.ru/movies/r/rayaandthelastdragon/posters/rayaandthelastdragon_2.jpg"},
+    {
+     "title":"Том и Джерри",
+     "green1":"11:15 150₽",
+     "green2":"none",
+     "green3":"none",
+     "red1":"09:05 200₽",
+     "red2":"13:05 250₽",
+     "red3":"none",
+     "year":"2021",
+     "country":"Великобритания, Франция, Германия, США",
+     "genre":"семейны, приключения, комедия, анимация",
+     "pic":"https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/44666512-1428871.jpg"},
+   {
+     "title":"Батя",
+     "green1":"none",
+     "green2":"none",
+     "green3":"none",
+     "red1":"21:05 250₽",
+     "red2":"none",
+     "red3":"none",
+     "year":"2021",
+     "country":"Россия",
+     "genre":"Комедия",
+     "pic":"http://avatars.mds.yandex.net/get-kinopoisk-image/1900788/bf609987-9456-46e5-8def-f9f7b62c96a4/600x900"},
+
+  ]
+}
