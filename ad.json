@@ -1,0 +1,24 @@
+[
+    {
+     "type":"Card",
+     "title":"СТОМАТОЛОГИЧЕСКИЙ КАБИНЕТ «ОЛИМП»",
+     "contact":"СТОМАТОЛОГИЯ «ОЛИМП»",
+     "adtext":"Профессиональная гигиена и отбеливание \nУдаление зубов любой сложности Лечение кариеса и заболеваний пародонта \nПротезирование и микропротезирование зубов \nЭстетическая реставрация зубов \nРентген кабинет",
+     "picture":"https://luxestom.ru/upload/resize_cache/iblock/0c7/388_10000_1/0c7a0bf7fe4d6a485fbeb32e1550ee5f.png",
+     "link":"http://example.com/"},
+    {
+     "type":"Card",
+     "title":"Выкуп Авто",
+     "contact":"Иванов И.И.",
+     "adtext":"Покупаем любые автомобили. Деньги сразу. \nСрочный выкуп авто, приедем сегодня. Бесплатный выезд оценщика. \nДоговор. Безопасная оплата в банке или МРЭО. \nЭвакуатор бесплатно.",
+     "picture":"https://ladaforward.ru/upload/medialibrary/677/677799d03aabb4b388095da76dc99808.jpg",
+     "link":"http://link.ru/"},
+  {
+     "type":"ADCmini",
+     "picture":"https://copyright23.ru/upload/information_system_27/4/0/3/item_403/small_banners.jpg",
+     "link":"http://pivo.ru/"},
+  {
+     "type":"ADCmini",
+     "picture":"https://www.plerdy.com/wp-content/uploads/2018/12/21m-1024x351.png",
+     "link":"http://media.ru/"}
+  ]
