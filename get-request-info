@@ -1,0 +1,24 @@
+[
+  {
+    "barcode": "XYZ987654321",
+    "kkPoint": "KK1",
+    "status": "Доставлен",
+    "channel": "K02",
+    "penaltyRound": "1",
+    "receivedTime": "2025-04-18T12:34:56",
+    "reportReceivedTime": "2025-04-18T14:20:00",
+    "diffSeconds": 6304,
+    "diffMinutesSeconds": 45.04
+  },
+  {
+    "barcode": "XYZ987655321",
+    "kkPoint": "KK1",
+    "status": "Доставлен",
+    "channel": "K02",
+    "penaltyRound": "1",
+    "receivedTime": "2025-04-18T12:34:56",
+    "reportReceivedTime": "2025-04-18T14:20:00",
+    "diffSeconds": 6304,
+    "diffMinutesSeconds": 45.04
+  }
+]
