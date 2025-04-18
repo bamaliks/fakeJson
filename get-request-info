@@ -1,24 +1,46 @@
 [
   {
-    "barcode": "XYZ987654321",
-    "kkPoint": "KK1",
-    "status": "Доставлен",
-    "channel": "K02",
-    "penaltyRound": "1",
-    "receivedTime": "2025-04-18T12:34:56",
-    "reportReceivedTime": "2025-04-18T14:20:00",
-    "diffSeconds": 6304,
-    "diffMinutesSeconds": 45.04
+    "requestName": "REP01_200",
+    "noReadCount": 1,
+    "barcodesCount": 2,
+    "totalCount": 3,
+    "barcodeInfoList": [
+      {
+        "barcode": "XYZ987654322",
+        "time": "2025-04-18T11:41:10.794+00:00"
+      },
+      {
+        "barcode": "XYZ987654321",
+        "time": "2025-04-18T11:41:10.794+00:00"
+      }
+    ]
   },
   {
-    "barcode": "XYZ987655321",
-    "kkPoint": "KK1",
-    "status": "Доставлен",
-    "channel": "K02",
-    "penaltyRound": "1",
-    "receivedTime": "2025-04-18T12:34:56",
-    "reportReceivedTime": "2025-04-18T14:20:00",
-    "diffSeconds": 6304,
-    "diffMinutesSeconds": 45.04
+    "requestName": "REP02_200",
+    "noReadCount": 2,
+    "barcodesCount": 5,
+    "totalCount": 7,
+    "barcodeInfoList": [
+      {
+        "barcode": "XYZ987654300",
+        "time": "2025-04-18T11:41:10.794+00:00"
+      },
+      {
+        "barcode": "XYZ987654311",
+        "time": "2025-04-18T11:41:10.794+00:00"
+      },
+      {
+        "barcode": "XYZ987654322",
+        "time": "2025-04-18T11:41:10.794+00:00"
+      },
+      {
+        "barcode": "XYZ987654333",
+        "time": "2025-04-18T11:41:10.794+00:00"
+      },
+      {
+        "barcode": "XYZ987654344",
+        "time": "2025-04-18T11:41:10.794+00:00"
+      }
+    ]
   }
 ]
