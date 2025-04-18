@@ -1,8 +1,8 @@
 [
   {
-    "barcode": "XYZ987654321",
+    "barcode": "234234234234",
     "kkPoint": "KK1",
-    "status": "Доставлен",
+    "status": "Не доставлен",
     "channel": "K02",
     "penaltyRound": "1",
     "receivedTime": "2025-04-18T12:34:56",
